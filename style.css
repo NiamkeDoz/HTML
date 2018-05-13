@@ -1,0 +1,9 @@
+body{
+    background-color: green
+}
+table{
+    background-color: red;
+}
+table {
+    border: black solid 2px;
+}
